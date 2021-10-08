@@ -1,1 +1,2 @@
 # namuna
+error install
